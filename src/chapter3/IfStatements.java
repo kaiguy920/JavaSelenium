@@ -1,4 +1,4 @@
-package Chapter3;
+package chapter3;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ public class IfStatements {
 //        Initialize the known values
         int salary = 1000;
         int bonus = 250;
-        int quota = 10
+        int quota = 10;
 
 //        Get values for unknown
         System.out.println("How many sales did the employee make this week?");
